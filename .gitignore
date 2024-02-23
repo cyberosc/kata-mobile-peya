@@ -1,0 +1,16 @@
+*.project.properties
+*.prefs
+*.classpath
+*.txt
+*.properties
+*/.classpath
+.gitignore
+.idea/
+*.iml
+*.hprof
+*.li
+
+!.gitignore
+!app/proguard-project.txt
+!gradle.properties
+!/gradle/wrapper/gradle-wrapper.properties
